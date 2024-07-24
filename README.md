@@ -3,7 +3,7 @@
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/healthcare-stroke-prediction.git
+git clone https://github.com/stta9/healthcare-stroke-prediction.git
 cd healthcare-stroke-prediction
 ```
 2. Install the required packages:
